@@ -1,4 +1,4 @@
-# 🏥 Triagegeist: Grandmaster EDA & Clinically-Safe AI Triage Pipeline
+#  A Grandmaster EDA and Leak-Free NLP Pipeline for Emergency Triage
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-Competition-blue)](https://kaggle.com/competitions/triagegeist)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-green)](https://python.org)
